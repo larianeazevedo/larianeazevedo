@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lariane Azevedo, desenvolvedora Front-end  👋
+<h1 align="center"> Olá! Eu sou a Lariane Azevedo, desenvolvedora Front-end 👋</h1>
 
 <div align="center">
   <a href="https://github.com/larianeazevedo">
